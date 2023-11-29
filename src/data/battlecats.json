@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Chili Parker",
+    "description": "El creador del rap Argentino",
+    "image": "https://pbs.twimg.com/media/Ful7WdnWAAgNZS1?format=jpg&name=small",
+    "battles": [
+      "https://www.youtube.com/watch?v=wTVqU9yFJyI",
+      "https://www.youtube.com/watch?v=9Jm5vuh4UHs",
+      "https://www.youtube.com/watch?v=euE58EapbQA"
+    ]
+  },
+  {
+    "name": "Markitos",
+    "description": "Lápiz pemeceano",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-iWHJsqr8wlFYSOO1mobaDwqLTRUSOleoC9aaQq6s8Xez2I6P38UAVEJprdDZUThYHE&usqp=CAU",
+    "battles": [
+      "https://www.youtube.com/watch?v=wTVqU9yFJyI",
+      "https://www.youtube.com/watch?v=bb7ApDO4ugg",
+      "https://www.youtube.com/watch?v=QTMA9Qzy_Yw"
+    ]
+  },
+  {
+    "name": "GSony",
+    "description": "El gordo con flow",
+    "image": "https://pbs.twimg.com/profile_images/1686259301034143745/hJP-E72k_400x400.jpg",
+    "battles": [
+      "https://www.youtube.com/watch?v=bQOhFWpWxbQ",
+      "https://www.youtube.com/watch?v=V-fxgrY7SBw"
+    ]
+  },
+  {
+    "name": "Brillante",
+    "description": "Métricas perfectas",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzV23TDfPlNFWVQbIX0zI0CIbGyhvrIlLMJI0UwFtuhqYhfVi04UaRtZTVG1oxKpWfPs&usqp=CAU",
+    "battles": [
+      "https://www.youtube.com/watch?v=4RVw2ea2OvY",
+      "https://www.youtube.com/watch?v=bQOhFWpWxbQ&t=1009s"
+    ]
+  }
+]

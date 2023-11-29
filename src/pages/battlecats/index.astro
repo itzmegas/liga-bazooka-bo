@@ -1,0 +1,24 @@
+---
+import { Image } from "astro:assets";
+import Layout from "../../layouts/Layout.astro";
+import Card from "../../components/Card.astro";
+import battlecats from "../../data/battlecats.json";
+---
+
+<Layout title="Liga Bazooka">
+  <secction>
+    <div>
+      {
+        battlecats.map((battlecat) => {
+          return (
+            <Card
+              title={battlecat.name}
+              body={battlecat.description}
+              image={battlecat.image}
+            />
+          );
+        })
+      }
+    </div>
+  </secction>
+</Layout>
